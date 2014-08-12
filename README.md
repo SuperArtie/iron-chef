@@ -1,6 +1,7 @@
 ## name of project
 ### Code Badges
 build status icon
+[![Build Status](https://travis-ci.org/SuperArtie/iron-chef.svg?branch=master)](https://travis-ci.org/SuperArtie/iron-chef)
 coverage status icon
 [![Coverage Status](https://coveralls.io/repos/SuperArtie/iron-chef/badge.png)](https://coveralls.io/r/SuperArtie/iron-chef)
 ### About
