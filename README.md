@@ -2,7 +2,7 @@
 ### Code Badges
 build status icon
 coverage status icon
-
+[![Coverage Status](https://coveralls.io/repos/SuperArtie/iron-chef/badge.png)](https://coveralls.io/r/SuperArtie/iron-chef)
 ### About
 write a description about your project
 
@@ -35,7 +35,7 @@ $ npm test
 ```
 
 ### Contributors
-- [Chyld Medford](https://github.com/chyld)
+- [Nathan Vasquez](https://github.com/superartie)
 
 ### License
 [MIT](LICENSE)
