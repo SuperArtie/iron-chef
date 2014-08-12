@@ -1,0 +1,21 @@
+{
+  "_id":{"$oid":"000000000000000000000001"},
+  "name":"White Sauce",
+  "photo":"http://www.seriouseats.com/images/20100707-hog-heaven-nashville-tn-white-sauce-red-sauce.jpg",
+  "ingredients":["1 Hog Heaven Brand Spice Packet", "1 Gal Mayonaise", "1 Qt Buttermilk", "3 Cups White Vinegar", "1/2 Cup Tabasco", "3 Tbsp Dry Molasses"],
+  "steps":["Dump Mayonaise in a bucket, add Buttermilk and stir until smooth", "Dissolve molasses in vinegar, and add to Buttermilk/Mayo mixture", "Add Tabasco then spices, in that order, and stir until smooth", "Let sit for 10-15 mins and then pour it all over everything you eat!"]
+}
+{
+  "_id":{"$oid":"000000000000000000000002"},
+  "name":"White Sauce",
+  "photo":"http://www.seriouseats.com/images/20100707-hog-heaven-nashville-tn-white-sauce-red-sauce.jpg",
+  "ingredients":["1 Hog Heaven Brand Spice Packet", "1 Gal Mayonaise", "1 Qt Buttermilk", "3 Cups White Vinegar", "1/2 Cup Tabasco", "3 Tbsp Dry Molasses"],
+  "steps":["Dump Mayonaise in a bucket, add Buttermilk and stir until smooth", "Dissolve molasses in vinegar, and add to Buttermilk/Mayo mixture", "Add Tabasco then spices, in that order, and stir until smooth", "Let sit for 10-15 mins and then pour it all over everything you eat!"]
+}
+{
+  "_id":{"$oid":"000000000000000000000003"},
+  "name":"White Sauce",
+  "photo":"http://www.seriouseats.com/images/20100707-hog-heaven-nashville-tn-white-sauce-red-sauce.jpg",
+  "ingredients":["1 Hog Heaven Brand Spice Packet", "1 Gal Mayonaise", "1 Qt Buttermilk", "3 Cups White Vinegar", "1/2 Cup Tabasco", "3 Tbsp Dry Molasses"],
+  "steps":["Dump Mayonaise in a bucket, add Buttermilk and stir until smooth", "Dissolve molasses in vinegar, and add to Buttermilk/Mayo mixture", "Add Tabasco then spices, in that order, and stir until smooth", "Let sit for 10-15 mins and then pour it all over everything you eat!"]
+}
