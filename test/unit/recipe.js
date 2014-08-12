@@ -36,6 +36,7 @@ describe('Recipe', function(){
     it('should find all recipes', function(done){
       Recipe.all(function(err, recipes){
         expect(recipes.length).to.equal(3);
+        console.log(recipes);
         done();
       });
     });

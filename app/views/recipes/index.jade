@@ -9,3 +9,10 @@ html
     nav
       ul
         li: a(href='/') Home
+    each recipe in recipes
+      #recipe
+        ul
+          li: img(src='#{recipe.photo}')
+          li= recipe.name
+          li= recipe.ingredients
+          li= recipe.steps
